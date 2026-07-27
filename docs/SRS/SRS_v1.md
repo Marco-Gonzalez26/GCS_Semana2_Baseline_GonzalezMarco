@@ -20,3 +20,7 @@
 | Versión | Fecha       | Autor      | Cambio                          |
 |---------|-------------|------------|----------------------------------|
 | v1.0    | 2026-07-26  | Marco Gonzalez | Versión inicial aprobada (Baseline) |
+
+## Cambios luego a la release de la Baseline v1.0
+
+- **REQ-007**: El sistema debe mostrar un mensaje de "última unidad disponible" cuando el stock de un producto sea igual a 1, para alertar al usuario antes de la compra.
